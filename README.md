@@ -1,3 +1,3 @@
 # demo
 Git Repository
-Authoe - Nidhi
+Author - Nidhi
